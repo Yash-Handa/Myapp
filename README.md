@@ -1,0 +1,6 @@
+# DEDICATED TO HACKTOBERFEST
+
+### CONTRIBUTORS
+
+- SHUBHAM PAL :sunglasses: :punch:
+- YASH HANDA :innocent:
