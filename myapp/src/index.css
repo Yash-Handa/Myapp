@@ -78,3 +78,13 @@ a {
 .cta:active {
   transform: scale(0.96);
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
